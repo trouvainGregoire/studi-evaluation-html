@@ -15,9 +15,19 @@
     border-radius: 2px;
 }
 
+.footer__legal{
+    margin-top: 5px;
+}
+
+.footer_links a{
+    text-decoration: none;
+    color: currentColor;
+}
+
 
 /* Small devices */
 @media (min-width: 576px) {
+
 }
 
 
@@ -39,6 +49,10 @@
 
     .description__img{
         width: 500px;
+    }
+
+    .footer__legal{
+        margin-top: 0;
     }
 }
 
