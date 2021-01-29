@@ -33,7 +33,9 @@
 
 /* Medium devices */
 @media (min-width: 768px) {
-
+    .footer__legal{
+        margin-top: 0;
+    }
 }
 
 
@@ -49,10 +51,6 @@
 
     .description__img{
         width: 500px;
-    }
-
-    .footer__legal{
-        margin-top: 0;
     }
 }
 
